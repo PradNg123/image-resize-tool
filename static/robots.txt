@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://image-resize-tool.onrender.com/sitemap.xml
